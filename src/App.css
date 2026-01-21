@@ -1,0 +1,8 @@
+/* Basic app styles - keep minimal; Tailwind handles most styling */
+html, body, #root {
+  height: 100%;
+}
+
+.transition-colors {
+  transition: color .2s, background-color .2s;
+}
