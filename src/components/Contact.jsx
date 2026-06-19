@@ -32,8 +32,8 @@ const contactDetails = [
   {
     icon: IconPhone,
     label: "Phone",
-    value: "+91 95566 95247",
-    href: "tel:+9556695247",
+    value: "+91 9000 0000",
+    href: "tel:+9000000000",
   },
   {
     icon: IconMapPin,
