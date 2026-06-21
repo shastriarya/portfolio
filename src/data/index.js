@@ -26,7 +26,7 @@ export const projects = [
   {
     id: 2,
     label: "E-Commerce",
-    title: "Jewelry E-Commerce Platform",
+    title: "E-Commerce Platform",
     description:
       "End-to-end luxury e-commerce experience — product catalog, cart, checkout, order tracking, and a full admin dashboard. Mobile-first, fast, and conversion-optimised from day one.",
     tech: ["Next.js", "MongoDB", "Tailwind CSS", "Node.js"],
